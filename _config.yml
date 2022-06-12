@@ -10,7 +10,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-layouts_dir: layout
 title: Yo blog
 theme: jekyll-theme-cayman
 

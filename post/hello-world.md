@@ -1,4 +1,6 @@
-
+---
+title: Blogging Like a Hacker
+---
 This is the first post for pages test.
 
 

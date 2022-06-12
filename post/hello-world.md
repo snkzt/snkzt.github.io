@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-cayman
 title: "Blogging Like a Hacker"
 ---
 

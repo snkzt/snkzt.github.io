@@ -1,6 +1,1 @@
-# Customise VS Code
-
-# Customise Zsh
-
-# Extra
-### Useful shortcut key
+# This is a repo for my blog posts.

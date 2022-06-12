@@ -1,6 +1,7 @@
 ---
-theme: jekyll-theme-cayman
+layout: layout
 title: Blogging Like a Hacker
+theme: jekyll-theme-cayman
 ---
 
 

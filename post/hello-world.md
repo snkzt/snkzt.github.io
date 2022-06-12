@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: ./layout
 title: "Blogging Like a Hacker"
 ---
 

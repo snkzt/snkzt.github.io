@@ -11,7 +11,7 @@ kramdown:
   syntax_highlighter: rouge
 
 layouts: ${PWD}/layout
-title: Yo blog
+title: "Yo blog"
 theme: jekyll-theme-cayman
 
 

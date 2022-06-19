@@ -1,7 +1,7 @@
 
 lsi: false
 safe: true
-source: ${PWD}/post
+source: ${PWD}
 incremental: false
 highlighter: rouge
 gist:
@@ -10,7 +10,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-layouts: ${PWD}
+layouts: ${PWD}/post
 title: "Yo blog"
 theme: jekyll-theme-cayman
 

@@ -1,7 +1,7 @@
 
 lsi: false
 safe: true
-source: ${PWD}
+source: ${PWD}/post
 incremental: false
 highlighter: rouge
 gist:

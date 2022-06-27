@@ -11,7 +11,7 @@
 
 ## Customise Zsh
 - [Oh My Zsh](https://ohmyz.sh/)
-  - Oh My Zsh is an open-source framework for zsh with rich themes, plugins, and helpers.
+  - Oh My Zsh is an open-source framework for zsh with rich (themes)[https://github.com/ohmyzsh/ohmyzsh/wiki/Themes], (plugins)[https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins], and helpers.
   - For example, you can update your shell prompt to show simple but informative current location or get many useful plugins such as web search from a terminal.
 - Alias / Function
   - Set your own aliases / function for commands long and frequently used.

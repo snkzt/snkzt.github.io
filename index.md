@@ -1,8 +1,7 @@
-
-## There are lots of repetitive actions required while coding. 
-## By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and therefore, the stress.
+<!-- Start with comment -->
+## There are lots of repetitive actions required while coding. By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and therefore, the stress.
 ## Here are some changes to share.
-</br>
+
 
 ## VS Code extension
 - [Open In GitHub](https://marketplace.visualstudio.com/items?itemName=sysoev.vscode-open-in-github): Open and view the current file on GitHub

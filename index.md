@@ -10,6 +10,7 @@
   - Especially the blame annotation at the end of the current line, and authorship to the top of the file / code blocks are useful. 
 
 ## Customise Zsh
+Details in my [.zshrc](https://github.com/snkzt/dotfiles/blob/main/.zshrc) file
 - [Oh My Zsh](https://ohmyz.sh/)
   - Oh My Zsh is an open-source framework for zsh with rich [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes), [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins), and helpers.
   - For example, you can update your shell prompt to show simple but informative current location or get many useful plugins such as web search from a terminal.

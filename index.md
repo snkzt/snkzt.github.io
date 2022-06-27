@@ -1,5 +1,5 @@
 <!-- # Customise your coding environment for better productivity -->
-# There are lots of repetitive actions required while coding. By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and, therefore, the stress.
+## There are lots of repetitive actions required while coding. By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and therefore, the stress.
 
 
 ## VS Code extension

@@ -37,3 +37,5 @@ There are many tips on the internet about shortcut keys but here are some I ofte
   - Above or below the current position: ```opt+cmd+↑/↓```
   - Below occurrences of the currenct selection: ```cmd+d```
   - All the occurrences of the current selection: ```shift+cmd+l```
+
+## Simplify your input on screen, get easier accessibility between tools. Removing stress is the key to productive work environment. 

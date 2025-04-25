@@ -1,5 +1,5 @@
 # Petit à petit
-# Welcome
+## Welcome
 Tech blog to share learnings on snkzt's SWE journey
 
 [Internet data flow in small scale](https://snkzt.github.io/posts/miniproject-tls-tcp-ip)

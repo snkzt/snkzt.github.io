@@ -1,3 +1,4 @@
+<!-- Start with comment -->
 ## Internet
 A network of networks where computers communicate through a set of standardised protocols.
 
@@ -24,7 +25,7 @@ Client sends messages and server replies to them:
 Client: IP address localhost   Server: IP address localhost
 
 User input: "hi"
-↓ Application: Go client programme reads input and sends via conn.Write()		       	     Application: Writes back via conn.Write()
+↓ Application: Go client programme reads input and sends via conn.Write()                    Application: Writes back via conn.Write()
 ↓ TLS: crypto/tls encrypts the message                                                       ↑ TLS: Decrypts and validates info
 ↓ TCP: Adds segment headers, segments data as required                                       ↑ TCP: Reads and strips header, checks data
 IP: Adds packet header  →  Routing: Loops back into network stack via loopback interface  →  IP: Reads and strips header
@@ -64,7 +65,7 @@ TLS (Transport Layer Security) adds:
 
   ```
 
-  ### What's achieved
+### What's achieved
 - Sends and receives encrypted data
 - Uses the same encryption mechanism as HTTPS
 - Handles multiple clients via goroutines

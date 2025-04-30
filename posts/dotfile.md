@@ -1,10 +1,12 @@
 ---
-title: "Customise your coding environment for better productivity"
+title: "Customise coding environment for better productivity"
 date: 2022-06-27
 layout: default
 ---
 
-## There are lots of repetitive actions required while coding. By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and therefore, the stress. Here are some changes to share.
+## There are lots of repetitive actions required while coding. 
+## By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and therefore, less stress. 
+## Here are some changes to share.
 
 ## VS Code extension
 - [Open In GitHub](https://marketplace.visualstudio.com/items?itemName=sysoev.vscode-open-in-github): Open and view the current file on GitHub

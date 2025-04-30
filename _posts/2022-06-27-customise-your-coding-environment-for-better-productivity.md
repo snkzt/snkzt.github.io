@@ -1,7 +1,7 @@
 ---
 title: "Customise your coding environment for better productivity"
 date: 2022-06-27
-layout: post
+layout: default
 ---
 
 ## There are lots of repetitive actions required while coding. By minimising the number of chance working on those, we can reduce the amount of time we spend on trivial detour and therefore, the stress. Here are some changes to share.

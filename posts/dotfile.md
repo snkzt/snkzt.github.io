@@ -47,4 +47,7 @@ There are many tips on the internet about shortcut keys but here are some I ofte
 
 ### Simplify your input on screen, get easier accessibility between tools. Removing stress is the key to productive work environment. 
 
-[Home](https://snkzt.github.io/)
+
+
+
+<[Home](https://snkzt.github.io/)>

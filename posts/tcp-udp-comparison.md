@@ -28,6 +28,7 @@ Both protocols were implemented using native Go `net` packages.
 
 
 ### Result Summary
+[Code](https://github.com/snkzt/tcp-udp-comparison)
 TCP:
 ```
 Average round-trip time: 11.275957ms

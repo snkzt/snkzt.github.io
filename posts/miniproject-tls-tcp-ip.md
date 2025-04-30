@@ -1,4 +1,9 @@
-## Internet data flow in small scale
+---
+title: "Internet data flow in small scale"
+date: 2025-04-28
+layout: default
+---
+
 ## Internet
 A network of networks where computers communicate through a set of standardised protocols.
 

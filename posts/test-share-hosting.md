@@ -21,15 +21,15 @@ In the mini project [test-share-hosting](https://github.com/snkzt/test-share-hos
 
 ### Result
 Accessing the given path to reach the server from the client
-![Client](snkzt.github.io/assets/images/client.png)
+![Client](/assets/images/client.png)
 
 
 Waiting for automatic deployment by Render after starting a service
-![Deployment](snkzt.github.io/assets/images/deployment.png)
+![Deployment](/assets/images/deployment.png)
 
 
 Checking the log
-![Logs](snkzt.github.io/assets/images/log.png)
+![Logs](/assets/images/log.png)
 Especially red rectangle part 'X-...' are added by reverse proxies.
 This shows that Render's reverse proxy is in action.
 

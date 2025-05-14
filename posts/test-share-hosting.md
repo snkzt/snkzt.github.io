@@ -20,18 +20,18 @@ In the mini project [test-share-hosting](https://github.com/snkzt/test-share-hos
 | **Deployment**                | ✅ Yes        | By deploying the code from local development to a public endpoint, the remaining process is managed by Render for automatic deployment. Manual deployment also available; in that case, you will need to deploy manually after uploading the latest changes to the app. |
 
 ### Result
-Accessing the given path to reach the server from the client
+**Accessing the given path to reach the server from the client**
 ![Client](/assets/images/client.png)
 
 
-Waiting for automatic deployment by Render after starting a service
+**Waiting for automatic deployment by Render after starting a service**
 ![Deployment](/assets/images/deployment.png)
 
 
-Checking the log
-![Logs](/assets/images/log.png)
-Especially red rectangle part 'X-...' are added by reverse proxies.
+**Checking the log**
+Especially red rectangle part `X-...` are added by reverse proxies.
 This shows that Render's reverse proxy is in action.
+![Logs](/assets/images/log.png)
 
 
 

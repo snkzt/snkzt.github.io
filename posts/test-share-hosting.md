@@ -29,6 +29,7 @@ In the mini project [test-share-hosting](https://github.com/snkzt/test-share-hos
 
 
 **Checking the log**
+
 Especially red rectangle part `X-...` are added by reverse proxies.
 This shows that Render's reverse proxy is in action.
 ![Logs](/assets/images/log.png)

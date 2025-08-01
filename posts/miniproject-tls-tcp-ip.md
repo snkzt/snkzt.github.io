@@ -1,8 +1,10 @@
 ---
-title: "Internet data flow in small scale"
-date: 2025-04-28
 layout: default
+title: "Internet Data Flow in Small Scale"
+date: 2025-04-28
 ---
+
+2025-04-28
 
 ## Internet
 A network of networks where computers communicate through a set of standardised protocols.

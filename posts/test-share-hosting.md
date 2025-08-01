@@ -1,8 +1,10 @@
 ---
+layout: default
 title: "Mini Server Hosting: Hands-On Introduction to Core Hosting Concepts"
 date: 2025-05-14
-layout: default
 ---
+
+2025-05-14
 
 In the mini project [test-share-hosting](https://github.com/snkzt/test-share-hosting), I worked on building and deploying a simple Go web server while covering several key hosting concepts.
 

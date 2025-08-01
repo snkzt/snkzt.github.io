@@ -1,8 +1,10 @@
 ---
+layout: default
 title: "Protocol Performance: A Local Benchmark of TCP vs UDP"
 date: 2025-04-30
-layout: default
 ---
+
+2025-04-30
 
 When building network applications, choosing the right protocol can significantly impact performance.
 Two of the most common transport protocols, TCP and UDP, offer different trade-offs in reliability, speed, and overhead.

@@ -1,6 +1,5 @@
 # Petit à petit
 
-### Welcome
+### Welcome to my blog
 
-### A blog to share learnings on snkzt's SWE journey
 [Blog](https://snkzt.github.io)
